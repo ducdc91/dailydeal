@@ -1,2 +1,2 @@
 # dailydeal
-tutor magento 2 extension daily deal
+magento 2 extension daily deal
